@@ -77,4 +77,6 @@ Contribute to the Game Informative Site by following these steps:
 3. Commit your changes.
 4. Create a Pull Request.
 
+This updated README provides comprehensive details about the Game Informative Site website project, outlining prerequisites, installation instructions, and guidance on exploring the site's content through a web browser.
+
 
